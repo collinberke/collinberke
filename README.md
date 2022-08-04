@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Collin! 👋
 
-<!--
-**collinberke/collinberke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a media research analyst, data enthusiast, and news, sports, and podcast aficianado. 
 
-Here are some ideas to get you started:
+Professionally, I use data, audience measurement, and marketing research methods to answer questions on how to best reach and engage audiences--towards the goal of enriching lives and engaging minds with public media content and services. I also adjunct university courses on the side. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Listening to [NPR](https://www.npr.org/), watching [PBS](https://www.pbs.org/) (especially [NOVA](https://www.pbs.org/wgbh/nova/)), and college football and baseball are my jam. 
+
+### Now
+
+Want to know more about what I'm currently working on, reading, or mastering? Check out the [now page](https://www.collinberke.com/now/) on my personal site.
+
+### :hammer_and_wrench: Tools I use
+
+* R
+* SQL
+* Bash
+
+### :writing_hand: Tools I'm learning
+
+* Python
+* JavaScript
+* Neovim
+* Lua
+
+### Find me
+* [Twitter](https://twitter.com/BerkeCollin)
+* [R4DS Learning Community Slack](https://www.rfordatasci.com/): Join the workspace and ping me `@Collin Berke`
