@@ -15,6 +15,7 @@ Want to know more about what I'm currently working on, reading, or mastering? Ch
 * R
 * SQL
 * Bash
+* Google Cloud Platform (GCP)
 
 ### :writing_hand: Tools I'm learning
 
