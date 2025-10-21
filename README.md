@@ -25,5 +25,5 @@ Want to know more about what I'm currently working on, reading, or mastering? Ch
 * Lua
 
 ### Find me
-* [Twitter](https://twitter.com/BerkeCollin)
+* [BlueSky](https://bsky.app/profile/collinberke.bsky.social)
 * [R4DS Learning Community Slack](https://www.rfordatasci.com/): Join the workspace and ping me `@Collin Berke`
